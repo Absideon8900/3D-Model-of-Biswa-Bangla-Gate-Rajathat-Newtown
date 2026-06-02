@@ -39,7 +39,7 @@ Biswa Bangla Gate is a prominent monument and cultural landmark in Kolkata, repr
 
 2. Navigate to the project directory:
    ```bash
-   cd 3D-Model-of-Biswa-Bangla-Gate-Rajathat-Newtown
+   https://sketchfab.com/3d-models/untitled-02-0a171ed3a3c0476dbac7268a92a2319b
    ```
 
 3. Open the 3D model files using Microsoft 3D Builder or compatible 3D viewers:
