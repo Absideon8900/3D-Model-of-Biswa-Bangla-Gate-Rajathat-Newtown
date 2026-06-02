@@ -72,6 +72,9 @@ For questions or suggestions, feel free to reach out through GitHub Issues or co
 
 - Microsoft 3D Builder for the modeling tools
 - Inspiration from Kolkata's architectural heritage
+## Picture of the project
+
+<img width="1600" height="1035" alt="image" src="https://github.com/user-attachments/assets/91febba4-4320-4840-9532-8916991d6f79" />
 
 ---
 
